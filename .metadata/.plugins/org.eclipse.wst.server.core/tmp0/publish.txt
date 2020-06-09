@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat May 30 00:19:01 KST 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\divas\\.m2\\repository\\org\\springframework\\spring-web\\4.2.4.RELEASE\\spring-web-4.2.4.RELEASE.jar=C\:\\sts-bundle\\pivotal-tc-server-developer-3.2.4.SR1\\base-instance\\wtpwebapps\\SPR\\WEB-INF\\lib\\spring-web-4.2.4.RELEASE.jar
+org.eclipse.jst.jee.server\:SPR=C\:\\sts-bundle\\pivotal-tc-server-developer-3.2.4.SR1\\base-instance\\wtpwebapps\\SPR

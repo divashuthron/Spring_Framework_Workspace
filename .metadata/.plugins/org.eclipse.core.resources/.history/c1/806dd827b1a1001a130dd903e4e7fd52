@@ -1,0 +1,25 @@
+package com.myspring.step01;
+
+public class LgTV implements TV {
+		Speaker speaker;
+
+		@Override
+		public void powerOn() {
+			System.out.println("LgTV---?†Ñ?õê Ïº†Îã§.");
+		}
+
+		@Override
+		public void powerOff() {
+			System.out.println("LgTV---?†Ñ?õê ?Åà?ã§.");
+		}
+
+		@Override
+		public void volumeUp() {
+			speaker.volumnUp();
+		}
+		
+		@Override
+		public void volumeDown() {
+			speaker.volumnDown();
+		}
+}
