@@ -1,8 +1,0 @@
-package com.springbook.biz.board;
-
-public class Snippet {
-	public static void main(String[] args) {
-		boardDAO.getBoard(vo);
-	}
-}
-
