@@ -1,0 +1,25 @@
+1591749170801	Delete element
+1591749221872	Delete element
+1591751205432	Rename type 'JDBCUtiul'
+1591754074224	Extract interface 'BoardService'
+1591754122513	Copy compilation unit
+1591754131880	Delete element
+1591754473156	Delete elements
+1591754482965	Delete element
+1591754486364	Delete element
+1591754553499	Rename package 'com.myspringbook.biz.board'
+1591754688087	Delete element
+1591755094086	Delete element
+1591755096115	Copy compilation unit
+1591755098753	Delete element
+1591756083725	Move 'resources' to 'com'
+1591756575270	Copy compilation unit
+1591756606880	Delete element
+1591756917627	Delete element
+1591756926072	Rename type 'Test2'
+1591761141010	Delete element
+1591761498370	Delete element
+1591761538495	Extract interface 'UserService'
+1591761589846	Delete element
+1591761593054	Copy compilation unit
+1591761594915	Delete element

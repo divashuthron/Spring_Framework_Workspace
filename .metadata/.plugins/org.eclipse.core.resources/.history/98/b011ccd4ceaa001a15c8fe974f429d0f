@@ -1,0 +1,8 @@
+package com.springbook.biz.user;
+
+public class Snippet {
+	public static void main(String[] args) {
+		JDBCUtil.close(rs, stmt, conn);
+	}
+}
+
