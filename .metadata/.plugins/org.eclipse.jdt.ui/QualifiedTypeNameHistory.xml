@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.springbook.biz.common.Log4jAdvice"/>
+<fullyQualifiedTypeName name="com.sun.corba.se.impl.oa.poa.Policies"/>
+<fullyQualifiedTypeName name="org.apache.naming.factory.BeanFactory"/>
+<fullyQualifiedTypeName name="org.springframework.web.context.support.AbstractRefreshableWebApplicationContext"/>
+<fullyQualifiedTypeName name="com.springbook.biz.common.JDBCUtil"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="com.springbook.biz.board.BoardService"/>
+<fullyQualifiedTypeName name="com.springbook.biz.board.BoardVO"/>
+<fullyQualifiedTypeName name="polymorphism.SonySpeaker"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.AbstractApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.GenericXmlApplicationContext"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

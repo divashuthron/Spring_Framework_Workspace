@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;BoardWeb_05ConstructorInjection/src/main/java/polymorphism&apos;&#x0D;&#x0A;- Original project: &apos;BoardWeb_05ConstructorInjection&apos;&#x0D;&#x0A;- Destination element: &apos;BoardWeb_05ConstructorInjection/src/main/java/polymorphism&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.springbook.biz.LgTV.java&#x0D;&#x0A;     com.springbook.biz.SamsungTV.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src\/main\/java&lt;polymorphism" element1="/src\/main\/java&lt;com.springbook.biz{LgTV.java" element2="/src\/main\/java&lt;com.springbook.biz{SamsungTV.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1592994838997" units="2" version="1.0"/>
+</session>
